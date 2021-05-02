@@ -1,5 +1,5 @@
 <p>
-  <img src="./images/spooksan.gif">
+  <img src="./images/spooksan2.gif">
 </p>
 
 <h1 align="center">Hi 👋, I'm Spooksan A.K.A Surya Kumar M</h1>
