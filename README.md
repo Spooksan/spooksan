@@ -54,8 +54,8 @@ Role：Fullstacker
 
 <p align="center">
 I promote and develop a YT channel : Spook | That provides 2 videos weekly without ads about paranormal and supernatural occurances around the world
-
 </p>
+
 <h3 align="left">Channel Link:</h3>
 - [Spook Paranormal / Supernatural Videos Channel](https://www.youtube.com/watch?v=NKCDdKok2mE)
 
