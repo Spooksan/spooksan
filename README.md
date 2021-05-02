@@ -52,7 +52,7 @@ Role：Fullstacker
      <img src="./images/spook-nobg-logo.png">
   </p>
 
--<p align="center">
+<p align="center">
 I promote and develop a YT channel : Spook | That provides 2 videos weekly without ads about paranormal and supernatural occurances around the world
 
 </p>
