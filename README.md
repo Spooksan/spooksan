@@ -40,7 +40,7 @@ Role：Fullstacker
   - [suryakumarm92@gmail.com](mailto:suryakumarm92@gmail.com)
   - [linkedin.com/in/surya-kumar-m/](https://www.linkedin.com/in/surya-kumar-m/)
 
-- :computer: PC/Mac:
+- :Computer: PC:
 
   - HP
   - i7-8th Gen
