@@ -40,7 +40,7 @@ Role：Fullstacker
   - [suryakumarm92@gmail.com](mailto:suryakumarm92@gmail.com)
   - [linkedin.com/in/surya-kumar-m/](https://www.linkedin.com/in/surya-kumar-m/)
 
-- :Computer: PC:
+  - Computer: PC
 
   - HP
   - i7-8th Gen
@@ -61,5 +61,4 @@ I promote and develop a YT channel : Spook | That provides 2 videos weekly witho
 
 <h3 align="left">Latest Video From Spook</h3>
 - [5 Encounters That Will Leave You With Nightmares](https://www.youtube.com/watch?time_continue=1&v=Fg0hldgFvak)
-[linkedin.com/in/surya-kumar-m/](https://www.linkedin.com/in/surya-kumar-m/)
 <!-- YOUTUBE:END -->
