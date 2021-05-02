@@ -1,4 +1,4 @@
-<p>
+<p align="center">
   <img src="./images/spooksan2.gif">
 </p>
 
