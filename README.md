@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Spooksan A.K.A Surya Kumar M</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A Passionate Fullstack Developer From India</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
