@@ -35,9 +35,9 @@ Role：Fullstacker
 
 - 📫 How to reach me:
 
-  - :octocat: [Github@Spooksan](https://github.com/Spooksan)
-  - :email: [suryakumarm92@gmail.com](mailto:suryakumarm92@gmail.com)
-  - :LinkedIN: [linkedin.com/in/surya-kumar-m/](https://www.linkedin.com/in/surya-kumar-m/)
+  - [Github@Spooksan](https://github.com/Spooksan)
+  - [suryakumarm92@gmail.com](mailto:suryakumarm92@gmail.com)
+  - [linkedin.com/in/surya-kumar-m/](https://www.linkedin.com/in/surya-kumar-m/)
 
 - :computer: PC/Mac:
 
